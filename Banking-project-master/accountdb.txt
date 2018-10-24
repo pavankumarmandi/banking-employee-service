@@ -1,0 +1,12 @@
+1	pavan	44344.0	gudali	9440301678	kingpavan.mandi@gmail.com	savings
+2	bhanu	66255.0	vidyanagar	8500098751	pavanmandi97@gmail.com	current
+3	sree	45678.0	kota	9087537318	nandakumar@gmail.com	current
+4	ramana	45795.0	gudur	7500037564	ramanareddy@gmail.com	savings
+5	harshitha	654152.0	ananthapur	7892456231	ytadrfyawfe.@gmail.com	current
+6	saikrishna	45498451.0	rajamundry	892462231	siaraja@gmai.com	current
+7	neeraja	454985.0	skht	8972654522	neeraja@gmail.com	current
+8	reddy	4526265.0	tirupathi	798565356	reddy@gmail.com	savings
+9	kumar	56416645.0	chennai	956742352	kumar@gmail.com	current
+10	harshith	8416579.0	naidupeta	7695266222	hari@gmail.com	savings
+11	badhra	64856.0	srikalahasthi	876415251	badhra@gmail.com	current
+12	reddy	458762	gur	5954366520	reddy@gmail.com	savings
